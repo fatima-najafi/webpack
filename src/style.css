@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  margin: 30px;
+}
+h3 {
+  color: gray;
+  padding: 30px;
+}
+img {
+  max-height: 500px;
+}
